@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Futura Std Medium";
+   src: url("fonts/FuturaStd-Heavy.woff") format("woff"), url("fonts/FuturaStd-Heavy.eot") format("embedded-opentype"), url("fonts/FuturaStd-Heavy.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura Std Book";
+   src: url("fonts/FuturaStd-Book.woff") format("woff"), url("fonts/FuturaStd-Book.eot") format("embedded-opentype"), url("fonts/FuturaStd-Book.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Plain Thin";
+   src: url("fonts/Plain-Thin.woff") format("woff"), url("fonts/Plain-Thin.eot") format("embedded-opentype"), url("fonts/Plain-Thin.OTF") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
